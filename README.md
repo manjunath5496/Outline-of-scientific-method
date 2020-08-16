@@ -182,7 +182,7 @@
 </ul>
 <h2><span id="History_of_scientific_method" class="mw-headline">History of scientific method</span></h2>
 <div class="navbox">&nbsp;</div>
-<div class="hatnote navigation-not-searchable">Main articles:&nbsp;<a title="History of scientific method" href="https://en.wikipedia.org/wiki/History_of_scientific_method">History of scientific method</a>,&nbsp;<a class="mw-redirect" title="Timeline of the history of scientific method" href="https://en.wikipedia.org/wiki/Timeline_of_the_history_of_scientific_method">Timeline of the history of scientific method</a>, and&nbsp;<a title="History of science" href="https://en.wikipedia.org/wiki/History_of_science">History of science</a></div>
+
 <h3><span id="Publications" class="mw-headline">Publications</span></h3>
 <ul>
 <li><a title="Ibn al-Haytham" href="https://en.wikipedia.org/wiki/Ibn_al-Haytham">Ibn al-Haytham</a>'s&nbsp;<em><a title="Book of Optics" href="https://en.wikipedia.org/wiki/Book_of_Optics">Book of Optics</a></em></li>
