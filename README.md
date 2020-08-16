@@ -2,10 +2,10 @@
 <p><strong><a title="Scientific method" href="https://en.wikipedia.org/wiki/Scientific_method">Scientific method</a></strong>&nbsp;&ndash; body of techniques for investigating&nbsp;<a title="Phenomenon" href="https://en.wikipedia.org/wiki/Phenomenon">phenomena</a>&nbsp;and acquiring new&nbsp;<a title="Knowledge" href="https://en.wikipedia.org/wiki/Knowledge">knowledge</a>, as well as for correcting and integrating previous knowledge. It is based on&nbsp;<a title="Observable" href="https://en.wikipedia.org/wiki/Observable">observable</a>,&nbsp;<a class="mw-redirect" title="Empirical" href="https://en.wikipedia.org/wiki/Empirical">empirical</a>,&nbsp;<a title="Reproducibility" href="https://en.wikipedia.org/wiki/Reproducibility">reproducible</a>,&nbsp;<a title="Measurement" href="https://en.wikipedia.org/wiki/Measurement">measurable</a>&nbsp;<a title="Scientific evidence" href="https://en.wikipedia.org/wiki/Scientific_evidence">evidence</a>, and subject to the&nbsp;<a title="Logical reasoning" href="https://en.wikipedia.org/wiki/Logical_reasoning">laws of reasoning</a>.</p>
 <h2 id="mw-toc-heading">Contents</h2>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="https://en.wikipedia.org/wiki/Outline_of_scientific_method#Nature_of_scientific_method"><span class="toctext">Nature of scientific method</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="https://en.wikipedia.org/wiki/Outline_of_scientific_method#Elements_of_scientific_method"><span class="toctext">Elements of scientific method</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="https://en.wikipedia.org/wiki/Outline_of_scientific_method#Scientific_method_concepts"><span class="toctext">Scientific method concepts</span></a></li>
-<li class="toclevel-1 tocsection-19"><span class="toctext"><a href="https://en.wikipedia.org/wiki/Outline_of_scientific_method#History_of_scientific_method">History of scientific method</a></span></li>
+<li class="toclevel-1 tocsection-1"><a href="#Nature_of_scientific_method"><span class="toctext">Nature of scientific method</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Elements_of_scientific_method"><span class="toctext">Elements of scientific method</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Scientific_method_concepts"><span class="toctext">Scientific method concepts</span></a></li>
+<li class="toclevel-1 tocsection-19"><span class="toctext"><a href="#History_of_scientific_method">History of scientific method</a></span></li>
 </ul>
 </br>
 <h2><span id="Nature_of_scientific_method" class="mw-headline">Nature of scientific method</span></h2>
